@@ -167,8 +167,3 @@ Each query writes its results to a separate HDFS directory (configured in `outpu
 | Q10 | `userId,cosine_similarity` |
 
 ---
-
-## License
-
-This project is for educational purposes (INF424 coursework).
-
